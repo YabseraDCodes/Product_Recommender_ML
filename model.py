@@ -83,4 +83,4 @@ def get_product_image(category, name):
         return "https://images.unsplash.com/photo-1612810436541-336d8b5d7f9a"
 
     # default fallback image
-    return "https://images.unsplash.com/photo-1522202222206-b0b6bfa7b4a1"
+    return "https://images.unsplash.com/photo-1518770660439-4636190af475"
