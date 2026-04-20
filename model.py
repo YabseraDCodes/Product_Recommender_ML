@@ -80,7 +80,7 @@ def get_product_image(category, name):
     if "laptop" in name:
         return "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
     if "usb" in name:
-        return "https://images.unsplash.com/photo-1612810436541-336d8b5d7f9a"
+        return "https://images.unsplash.com/photo-1518770660439-4636190af475"
 
     # default fallback image
     return "https://images.unsplash.com/photo-1518770660439-4636190af475"
